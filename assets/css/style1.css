@@ -1,0 +1,24 @@
+body{
+    background-color:whitesmoke;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:18.72px;
+    text-align: center;
+    width:rem;
+    border-color: red;
+    border-style: solid;
+    border-left: white;
+    border-right: white;
+    border-top: white;
+    padding-bottom: 10px;
+    margin-left:200px;
+    margin-right:200px;
+}
+img{
+    float:inline-end;
+    padding-left: 10px;
+    width:30%;
+    margin: 10/6%;
+    clear:clear;
+}
