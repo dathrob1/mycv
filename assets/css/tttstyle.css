@@ -1,25 +1,29 @@
 table{
-    width:100%;
+    width:50%;
     border-collapse: collapse;
     border: solid;
+    margin-left: 25%;
+    margin-right:25%
 }
 td{
     width: 33.3%;
-    border:6px solid #222;
+    border:6px solid black;
 }
-/* td:after{
+ td:after{
     content:"";
     display:block;
     margin-top:100%;
 }
-td:nth-of-type(2){
-    border-left-color: transparent;
-    border-top-color: transparent;
-}
-td:nth-of-type(3){
-    border-right-color: transparent;
-    border-top-color: transparent;
-}
-tr:nth-of-type(3) td{
+
+#bottom{
     border-bottom-color: transparent;
-} */
+} 
+#top{
+    border-top-color: transparent;
+}
+.left{
+    border-left-color: transparent;
+}
+.right{
+    border-right-color: transparent;
+}
