@@ -1,0 +1,98 @@
+#Ethiopia{
+    height: 100px;
+    border-top:green solid 100px;
+    width: 50%;
+    padding-left: 0%;
+    background-color : yellow;
+    border-bottom:red solid 100px;
+}
+P{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 300%;
+    border-bottom: red solid;
+}
+#Italy{
+    height: 400px;
+    border-left:green solid 200px;
+    background-color:white ;
+    border-right:red solid 200px;
+    width: 200px;
+    border-bottom: none;
+}
+#Austria{
+    height: 100px;
+    border-top:red solid 100px;
+    width: 50%;
+    padding-left: 0%;
+    background-color : white;
+    border-bottom:red solid 100px;}
+#Germany{
+    height: 100px;
+    border-top:black solid 100px;
+    width: 50%;
+    padding-left: 0%;
+    background-color : red;
+    border-bottom:yellow solid 100px;
+}
+#France{
+height: 400px;
+    border-left:blue solid 200px;
+    background-color:white ;
+    border-right:red solid 200px;
+    width: 200px;
+    border-bottom: none;}
+#IvoryCost{
+    height: 400px;
+    border-left:green solid 200px;
+    background-color:white ;
+    border-right:orange solid 200px;
+    width: 200px;
+    border-bottom: none;
+
+}
+#Russia{
+    height: 100px;
+    border-top:white solid 100px;
+    width: 50%;
+    padding-left: 0%;
+    background-color : blue;
+    border-bottom:red solid 100px;}
+#GB{
+    height: 100px;
+    border-top:red solid 100px;
+    width: 50%;
+    padding-left: 0%;
+    background-color : blue;
+    border-bottom:green solid 100px;}
+
+#Hungary{
+    height: 100px;
+    border-top:red solid 100px;
+    width: 50%;
+    padding-left: 0%;
+    background-color : white;
+    border-bottom:green solid 100px;
+}
+#Ireland{
+    height: 400px;
+    border-left:green solid 200px;
+    background-color:white ;
+    border-right:orange solid 200px;
+    width: 200px;
+    border-bottom: none;
+}
+#Gabon{
+    height: 100px;
+    border-top:green solid 100px;
+    width: 50%;
+    padding-left: 0%;
+    background-color : yellow;
+    border-bottom:blue solid 100px;
+}
+#Indonesia{
+    height: 100px;
+    width: 50%;
+    padding-left: 0%;
+    background-color : red;
+    border-bottom:white solid 100px;
+}
