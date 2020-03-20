@@ -1,6 +1,10 @@
 /* external css */
-/* element selectors */
-@media screen and (min-width:480 px){
+@media screen and (min-width: 480px) {
+    body {
+      background-color: lightgreen;
+    }
+  }
+
  body{
     background-color:whitesmoke;
 } 
@@ -45,9 +49,10 @@ article {
     font-size: 15px;
     text-transform: uppercase; }
 h2{
-    font-size: 30px;
+    font-size: 23px;
     line-height: 25px;
-
+    text-align: justify;
+   
 }
 
-}
+
