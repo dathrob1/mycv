@@ -1,0 +1,25 @@
+table{
+    width:100%;
+    border-collapse: collapse;
+    border: solid;
+}
+td{
+    width: 33.3%;
+    border:6px solid #222;
+}
+/* td:after{
+    content:"";
+    display:block;
+    margin-top:100%;
+}
+td:nth-of-type(2){
+    border-left-color: transparent;
+    border-top-color: transparent;
+}
+td:nth-of-type(3){
+    border-right-color: transparent;
+    border-top-color: transparent;
+}
+tr:nth-of-type(3) td{
+    border-bottom-color: transparent;
+} */

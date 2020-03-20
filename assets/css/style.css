@@ -36,6 +36,7 @@ article {
 .title {
     font-size: 23px;
     font-weight: bold;
+    border-bottom: solid red;
 }
 .date {
     font-style: italic;
