@@ -1,8 +1,8 @@
 /* external css */
 /* element selectors */
-body{
-    
-}
+ body{
+    background-color:whitesmoke;
+} 
 
 
 #top{
@@ -27,7 +27,6 @@ nav>ul>li>a{
 } 
 a:hover{
     border-bottom: solid red;
-}
 }
 article {
     font-size: 15px;
