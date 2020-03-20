@@ -1,4 +1,5 @@
-body{
+@media screen and (min-width:480 px){
+    body{
     background-color:whitesmoke;
 }
 p{
@@ -34,4 +35,4 @@ nav>ul>li>a{
 } 
 a:hover{
     border-bottom: solid red;
-}
+}}

@@ -1,5 +1,6 @@
 /* external css */
 /* element selectors */
+@media screen and (min-width:480 px){
  body{
     background-color:whitesmoke;
 } 
@@ -29,9 +30,10 @@ a:hover{
     border-bottom: solid red;
 }
 article {
-    font-size: 15px;
+    font-size: 20px;
     line-height: 25px;
     text-align: justify;
+    margin: 5%;
 }
 .title {
     font-size: 23px;
@@ -42,13 +44,10 @@ article {
     font-style: italic;
     font-size: 15px;
     text-transform: uppercase; }
-img{
-    /* width:300px;
-    height:300px;
-    border-radius: 100%; */
-    float:left;
-    margin-right:10px ;
+h2{
+    font-size: 30px;
+    line-height: 25px;
+
 }
 
-
-
+}
